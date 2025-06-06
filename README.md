@@ -12,7 +12,7 @@
 ## 📦 Стек технологий (подробно в файле requirements.txt)
 
 - Python 3.12
-- Django 4+
+- Django 5+
 - Django REST Framework
 - SQLite (по умолчанию, легко заменить на PostgreSQL)
 - Pytest
