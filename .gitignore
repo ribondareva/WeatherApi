@@ -32,3 +32,6 @@ secrets.yml
 
 # macOS
 .DS_Store
+
+# Tests
+.coverage

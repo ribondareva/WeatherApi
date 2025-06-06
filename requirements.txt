@@ -2,6 +2,7 @@ asgiref==3.8.1
 certifi==2025.4.26
 charset-normalizer==3.4.2
 colorama==0.4.6
+coverage==7.8.2
 decouple==0.0.7
 Django==5.1.2
 djangorestframework==3.16.0
